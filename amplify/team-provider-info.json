@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-concerto-staging-212142-authRole",
+      "UnauthRoleArn": "arn:aws:iam::629520016862:role/amplify-concerto-staging-212142-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::629520016862:role/amplify-concerto-staging-212142-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-concerto-staging-212142-deployment",
+      "UnauthRoleName": "amplify-concerto-staging-212142-unauthRole",
+      "StackName": "amplify-concerto-staging-212142",
+      "StackId": "arn:aws:cloudformation:us-east-2:629520016862:stack/amplify-concerto-staging-212142/00796a30-d920-11eb-85d9-06b59db20454",
+      "AmplifyAppId": "dyvwkclvbbo6t"
+    },
+    "categories": {
+      "auth": {
+        "Concerto": {}
+      }
+    }
+  }
+}
